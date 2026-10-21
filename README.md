@@ -4,7 +4,7 @@
 
 Welcome! 🎯 This repository kickstarts a modern web implementation of Battleship. It’s set up with a lightweight Webpack configuration for both development and production, so you can focus on gameplay and UI while the bundler handles modules, assets, and builds.
 
-[Odin Battleship](https://krig6.github.io/odin-battleship) - A neon-lit naval showdown with drag-and-drop strategy!
+[Odin Battleship](https://ekodesjuliet.github.io/odin-battleship/) - A neon-lit naval showdown with drag-and-drop strategy!
 
 ## Screenshots
 
